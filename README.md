@@ -8,7 +8,7 @@ I analyzed customer churn for **Databel**, a telecom company experiencing a **26
 Using **Excel**, I cleaned, prepared, and explored a dataset of over **6,600 customer records** covering demographics, plans, billing, and support interactions.  
 I also designed an **interactive dashboard** to visualize churn patterns and identify underlying causes.
 
-📊 [View Interactive Dashboard](https://1drv.ms/x/c/be9d36ca1f6bb2c6/ERh1kKAzj8pEtSRQFMvigeYB8_yQ-nvNxDf0rkQjfTK1nQ?e=JvWc6i&nav=MTVfezc1Mzg1MzcyLTA0NDMtNDU3Ri1CRjExLTFFQjkxQzEyNzY3OH0) 
+📊 [View Dashboard Online](https://1drv.ms/x/c/be9d36ca1f6bb2c6/ERh1kKAzj8pEtSRQFMvigeYB8_yQ-nvNxDf0rkQjfTK1nQ?e=JvWc6i&nav=MTVfezc1Mzg1MzcyLTA0NDMtNDU3Ri1CRjExLTFFQjkxQzEyNzY3OH0) 
 
 ---
 
