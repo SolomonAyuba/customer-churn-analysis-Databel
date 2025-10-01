@@ -33,11 +33,11 @@ I also designed an **interactive dashboard** to visualize churn patterns and ide
 
 ## 🔗 Explore More  
 - 📖 [Read Full Report on Medium](https://medium.com/@solomonayubafirst/customer-churn-analysis-for-databel-why-customers-leave-and-how-to-win-them-back-a2fe55eb94a5)  
-- 📊 [View Interactive Dashboard](https://1drv.ms/x/c/be9d36ca1f6bb2c6/ERh1kKAzj8pEtSRQFMvigeYB8_yQ-nvNxDf0rkQjfTK1nQ?e=JvWc6i&nav=MTVfezc1Mzg1MzcyLTA0NDMtNDU3Ri1CRjExLTFFQjkxQzEyNzY3OH0)  
+- 📊 [View Dashboard Online](https://1drv.ms/x/c/be9d36ca1f6bb2c6/ERh1kKAzj8pEtSRQFMvigeYB8_yQ-nvNxDf0rkQjfTK1nQ?e=JvWc6i&nav=MTVfezc1Mzg1MzcyLTA0NDMtNDU3Ri1CRjExLTFFQjkxQzEyNzY3OH0)  
 - 🌐 [My Portfolio](https://www.datascienceportfol.io/solomonayubafirst)  
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/solomonayuba/)  
 - 📧 Email: [solomonayubafirst@gmail.com](mailto:solomonayubafirst@gmail.com)  
 
 ---
 
-*Every dataset tells a story, my goal is to uncover insights that drive smarter decisions.*  
+*Every dataset tells a story; my goal is to uncover insights that drive smarter decisions.*  
