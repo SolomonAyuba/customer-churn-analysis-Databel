@@ -10,6 +10,8 @@ I also designed an **interactive dashboard** to visualize churn patterns and ide
 
 📊 [View Dashboard Online](https://1drv.ms/x/c/be9d36ca1f6bb2c6/ERh1kKAzj8pEtSRQFMvigeYB8_yQ-nvNxDf0rkQjfTK1nQ?e=JvWc6i&nav=MTVfezc1Mzg1MzcyLTA0NDMtNDU3Ri1CRjExLTFFQjkxQzEyNzY3OH0) 
 
+![Dashboard](https://raw.githubusercontent.com/SolomonAyuba/customer-churn-analysis-Databel/acec2f64b5db9837e787fb1c987217962293058b/assests/Dashboard%2C%20Insights%20and%20Recommendations.png)
+
 ---
 
 ## 🔎 Key Findings  
